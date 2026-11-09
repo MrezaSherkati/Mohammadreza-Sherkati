@@ -46,7 +46,7 @@ and Automata, Operating Systems, Databases, VLSI, Advanced Computer Architecture
 
 **Carleton University &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ottawa, Canada**
 Research Assistant, May 2023 - Present
-- Addressing Cybersecurity Challenges in Autonomous Vehicles using Federated Learning.
+- Improving Multi-Modal Human Activity Recognition in Federated Learning.
 
 **Hardware-Software Co-Design Research Group, University of Isfahan &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Isfahan, Iran**
 Research Assistant, Sep 2020 - Apr 2023
